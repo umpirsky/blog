@@ -44,7 +44,7 @@ And like that's not enough, we share our private lives without thinking twice, i
 ![Privacy]({{site.baseurl}}/images/posts/2018-03-03-finding-the-focus-in-the-age-of-distraction/privacy.jpg)
 {% include copy.md name="Kevin Lau" title="@klhrdesign" url="https://www.instagram.com/klhrdesign/" %}
 
-Even if we care about privacy, our options are limited. We use tools that collect information, we are surrounded with people who share, we live in a hyperconnected world and lack of privacy is the price we all have to pay. If we don't pay with money, we will **pay with our data**.
+Even if we care about privacy, our options are limited. We use tools that collect information, we are surrounded with people who share, we live in a hyperconnected world and lack of privacy is the price we all have to pay. If we don't pay with money, we will **pay with our data**. Imagine you were born several years ago, and you realize that your entire childhood is already online, all photos, videos...without anyone asking for your permission to publish it. Am I the only one who thinks this sounds scary?
 
 To finalize my thoughts on consequences, I caught myself doing wrong things, talking to other people and doing some research, I realized I'm not alone. This includes bad habits such as sharing news without reading past the headlines or sending smiley without moving my mouth.
 
@@ -54,6 +54,29 @@ There is no single reason I can point my finger at, but the background for such 
 
 ## The Solution
 
+As you can see, the problem is not small. It is serious, and solution is not simple. I will try to sum some things that worked for me, and some that I think can work for many people. If you made it reading this far, take what follows as prescription, not an advice.
+
+People who use computer or smartphone for work usually fall into the trap of mixing private and business emails and chats, which leads to more distraction in both, work and private life. One of the first steps here is to separate this two. This can be extremely challenging. Start by using separate email addresses, or simply postpone non urgent private emails until weekend. I love snooze email feature of [Inbox](https://www.google.com/inbox/).
+
+Messaging applications are by far the most challenging to handle and number one cause of distraction. Apps like Slack, which is very popular in the business world lately can ruin team performance if used wrong. Talk to your teammates and ask them to send emails if it's not urgent. It's also useful to divide in smaller groups and use group mentions carefully, only when really required. Part of the responsibility is always on recipients side. Check for new messages periodically, and not too often. Snooze notifications when you want to focus.
+
+All in all, the key of interruption management is to realize that world will not burn in flames if someone waits hour or two for your response. This is of course the case unless your job is to react fast.
+
+Limit your interests. By this I mean interests in following various subject online. Most timelines are full of wedding photos, delicious meals, exotic travel destinations and so on, posted by our *friends*. Then there are news and blogs we follow. Tech news, cryptocurrencies, fashion, architecture...depending on our interest of course. Maybe we should just care less. Who cares about new shiny iPhone with that silly notch, or if Bitcoin price went up or down, or who ate what and where. Stop that fear of missing something.
+
+Of course we should read articles, but it's important to find a measure, and select high quality content. I often read articles on E-Reader, it helps me to think twice if it really deserves to be read and it's easier on my eyes. I use [Push to Kindle](https://addons.mozilla.org/en-US/firefox/addon/kindle-it/) for this.
+
+We are in control, not our device. We decide ~~when we want want to be interrupted~~. Actually, there is no interruption, we consume content whenever we want to. That's the key of being productive and stay focused. Make the phone dumber, less apps, less distraction. Try to identify what apps are really needed and keep their number minimal.
+You can go step further and buy [Light Phone](https://www.thelightphone.com/), [Nokia 3310](https://www.nokia.com/en_in/phones/nokia-3310-dual-sim) or [NoPhone](https://www.thenophone.com/) and enjoy unlimited battery life.
+
+Tech companies are adding internet connections to just about everything you can imagine. Watches, thermostats, mosquito zappers, coffee makers... It's meant to make our lives easier, but does it really do? A normal wristwatch is designed to accomplish a simple task extremely well. It's superior at one crucial task - telling the time. Smart watch screen wakes up when you tilt your wrist at an angle to save battery life, not very handy while riding a bicycle. Don't get me started on distractions when you have another source of notifications you need to handle.
+
+![Privacy]({{site.baseurl}}/images/posts/2018-03-03-finding-the-focus-in-the-age-of-distraction/sleep.jpg)
+{% include copy.md name="Jean Jullien" title="http://www.jeanjullien.com/" url="http://www.jeanjullien.com/" %}
+
+Back to smartphones, I for example, disable all notifications except phone calls. It wasn't always that way. Few years ago I break phone display and got it replaced. The process tool two days. I was without my phone for the first time after several years of slavery. The feeling was fenomenal! A true revelation, everyone should try it. During the night, *do not disturb* mode is on, probably one of the most useful features.
+
+For people who have problems cutting or limiting time spent on distracting apps and websites, [Freedom](https://freedom.refersion.com/c/e32723) blocker can be useful. You can for example choose to schedule blocking of social media during working hours and boost your productivity that way. For higher levels of addition, there is also a locked mode.
 
 [^1]: [The Impact of Social Media on Children, Adolescents, and Families](http://pediatrics.aappublications.org/content/127/4/800.short)
 [^2]: [Social Media Use and Perceived Social Isolation Among Young Adults in the U.S.](http://www.ajpmonline.org/article/S0749-3797(17)30016-8/fulltext)
