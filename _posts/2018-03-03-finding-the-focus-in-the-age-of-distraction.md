@@ -66,6 +66,9 @@ Messaging applications are by far the most challenging to handle and number one 
 
 All in all, the key of **interruption management** is to realize that world will not burn in flames if someone waits hour or two for our response. Of course, this is not the case if you are a fireman, your job is to react fast.
 
+![Cigarettes]({{site.baseurl}}/images/posts/2018-03-03-finding-the-focus-in-the-age-of-distraction/cigarettes.png)
+{% include copy.md name="2wenty" title="http://www.artby2wenty.com/" url="http://www.artby2wenty.com/" %}
+
 Limit your interests. By this I mean interests in following various subject online. Most timelines are full of wedding photos, delicious meals, exotic travel destinations and so on, posted by our *friends*. Then there are news and blogs we follow. Tech news, cryptocurrencies, fashion, architecture ... depending on our interest of course. Maybe we should just care less. Who cares about new shiny iPhone with that silly notch, or if Bitcoin price went up or down, or who ate what and where. Stop that **fear of missing something**.
 
 Of course we should read articles, but it's important to find a measure, and select high quality content. I often read articles on e-reader. It helps me to think twice if it really deserves to be read. It's not so rare that it becomes obsolete by the time I manage to get the chance to read it. And it's easier on my eyes. I use [Push to Kindle](https://addons.mozilla.org/en-US/firefox/addon/kindle-it/) for this.
