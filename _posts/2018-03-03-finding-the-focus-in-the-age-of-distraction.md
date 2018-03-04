@@ -19,6 +19,13 @@ Curiosity, the hunger, thirst, desire, need for knowledge and the exploration of
 
 Same applies to content creation. We are social beings, we love to share, and technology allowed us to be able to **share** like never before. What was the privilege of a few, became available to the masses. Ordinary man was suddenly able to reach millions in a heartbeat.
 
+The addiction builds up quickly, as we discover more, we want more. It's actually not that we want it, but it is so easy, so accessible, it's already on our phone which makes it difficult to not access it, and already hard to resist as it quickly became daily habit without even noticing it. The industry behind social media wants more clicks, more time on site, higher conversation rates. We on the other hand don't tend to define another 20 minutes on social media as a step towards our ideal lives, but we check our phones again, and again, and again...
+
+![Addiction]({{site.baseurl}}/images/posts/2018-03-03-finding-the-focus-in-the-age-of-distraction/addiction.png)
+<em><small> &copy; Koreabizwire - [http://koreabizwire.com/](http://koreabizwire.com/)</small></em>
+
+There are many reasons for this, but one of the main is defined by our need for the smartphone as a helpful companion, it makes many traditional tasks easier (taking notes, setting up reminders, using maps for navigation, translating content...). We started being more dependent on it, it's always there when we need it, but we also allowed it to interrupt us without our approval. If there is a notification (and there will be by default, because that's one of the simplest tricks to increase usage), we must at least look at it and dismiss. Industry uses this possibility to drag us back, to check our phone again. And we will, we have this fear of missing things out, which makes us addicted as a consequence.
+
 ## The Consequences
 
 ## The Solution
