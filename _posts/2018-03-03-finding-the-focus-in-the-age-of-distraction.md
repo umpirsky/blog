@@ -28,4 +28,37 @@ There are many reasons for this, but one of the main is defined by our need for 
 
 ## The Consequences
 
+The potential for negative effects of social media on mental health in young kids and teens is warned by the American Academy of Pediatrics [^1], and they are not alone [^2]. The same risks may be true for adults too [^3]. Researches and surveys are countless, and this is becoming the hot topic worldwide. Statistical numbers also shows anxiety and depression is increasing, and social media is to blame [^4].
+
+In addition, as a natural consequence comes the lack of time for the things that are important. Spending time with the family and friends is interrupted or sacrificed by increased attention that smartphone and all the virtual world in it suddenly "deserved". We don't realize how expensive social media overconsumption is, try to [measure it](https://www.rescuetime.com/rp/umpirsky), you will be horrified when you see and deeply understand your daily habits.
+
+I often hear people complaining about the lack of time to do important stuff, yet they spend hours each day on social media. Of course, you can do it in the train, toilet, supermarket queue...but it still creates distraction, makes you tired and less capable to focus. This means lower productivity, especially dangerous if you are a student.
+
+Another important effect that is noticed is how social media affects the way people think. It uses the same mechanism other traditional media like television and press already use successfully for years. It messes with our ability to think independently. Think about it, we already agree with people we follow. When we post a poll on Twitter, we are asking questions to people who think and share similar values with us, we can't expect fresh opinions about the subject, and yet that's why we posted it.
+
+Smartphone overuse may also increase the risk of eye damage, posture [^5] and respiratory function [^6].
+
+It's not only about mental and physical health, **privacy** is at risk too. Social networks collect huge amount of consumer data, the average user spends two and a half hours daily on social media [^7], and this activity reveals a great deal about them.
+And like that's not enough, we share our private lives without thinking twice, it's promoted as a lifestyle. With a little detective work, anyone can reconstruct daily behavior of average social media user, knowing when and what places he went, who were his companions, what did he do, buy, eat and so on.
+
+![Privacy]({{site.baseurl}}/images/posts/2018-03-03-finding-the-focus-in-the-age-of-distraction/privacy.jpg)
+{% include copy.md name="Kevin Lau" title="@klhrdesign" url="https://www.instagram.com/klhrdesign/" %}
+
+Even if we care about privacy, our options are limited. We use tools that collect information, we are surrounded with people who share, we live in a hyperconnected world and lack of privacy is the price we all have to pay. If we don't pay with money, we will **pay with our data**.
+
+To finalize my thoughts on consequences, I caught myself doing wrong things, talking to other people and doing some research, I realized I'm not alone. This includes bad habits such as sharing news without reading past the headlines or sending smiley without moving my mouth.
+
+> I mean, if I'm not smiling, why am I sending that emoticon?
+
+There is no single reason I can point my finger at, but the background for such behavior can be found in a need for simple and quick reactions. To fake a smile in real life, you need to make effort, and probably some acting skills to make it look real. But not online, emotional reactions are cheap here.
+
 ## The Solution
+
+
+[^1]: [The Impact of Social Media on Children, Adolescents, and Families](http://pediatrics.aappublications.org/content/127/4/800.short)
+[^2]: [Social Media Use and Perceived Social Isolation Among Young Adults in the U.S.](http://www.ajpmonline.org/article/S0749-3797(17)30016-8/fulltext)
+[^3]: [If Facebook Use Causes Envy, Depression Could Follow](https://munews.missouri.edu/news-releases/2015/0203-if-facebook-use-causes-envy-depression-could-follow/)
+[^4]: [Instagram ranked worst for young people’s mental health](https://www.rsph.org.uk/about-us/news/instagram-ranked-worst-for-young-people-s-mental-health.html)
+[^5]: [The Effects of Posture on Neck Flexion Angle While Using a Smartphone according to Duration](https://www.researchgate.net/publication/308911794_The_Effects_of_Posture_on_Neck_Flexion_Angle_While_Using_a_Smartphone_according_to_Duration)
+[^6]: [The effect of smartphone usage time on posture and respiratory function](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4756000/)
+[^7]: [Daily time spent on social networking by internet users worldwide from 2012 to 2017 (in minutes)](https://www.statista.com/statistics/433871/daily-social-media-usage-worldwide/)
