@@ -1,7 +1,6 @@
 ---
 layout: post
 title: List of All Countries
-excerpt_separator: <!--more-->
 ---
 
 Back [in 2012](https://github.com/umpirsky/country-list/commit/50807f21ab61a31510b8ba20c0908b11201d7576), I was sitting in front of the screen and asked myself:
@@ -12,7 +11,7 @@ The mind flow was something like: login and registration form, ok, they have som
 
 ![Flags]({{site.baseurl}}/images/posts/2018-02-24-list-of-all-countries/flags.jpg)
 <!--more-->
-<em><small> &copy; Penn State - [https://www.flickr.com/photos/pennstatelive/16216912657](https://www.flickr.com/photos/pennstatelive/16216912657)</small></em>
+{% include copy.md name="Penn State" title="https://www.flickr.com/photos/pennstatelive/16216912657" url="https://www.flickr.com/photos/pennstatelive/16216912657" %}
 
 I started googling around for a good data source, searched on GitHub, but no good resource was found back then. I needed something that is available in a variety of formats, multilingual and easy to use. So scraping [Wikipedia](https://en.wikipedia.org/wiki/List_of_sovereign_states) was not an option (although that would probably work for this project).
 

@@ -4,6 +4,7 @@ email: umpirsky@gmail.com
 
 highlighter: rouge
 markdown: kramdown
+excerpt_separator: <!--more-->
 
 # Tracker
 analytics: UA-6935870-12
