@@ -81,6 +81,12 @@ Back to smartphones, I for example, disable all notifications except phone calls
 
 For people who have problems cutting or limiting time spent on distracting apps and websites, [Freedom](https://freedom.refersion.com/c/e32723) blocker can be useful. You can for example choose to schedule blocking of social media during working hours and boost your productivity that way. For higher levels of addition, there is also a locked mode.
 
+Finally, it's up to you to identify priorities and severity of the problem. I think we are all dealing with this issue at some degree. As a web developer, I often find challenging to stay productive in day to day work. With all that internet has to offer, focusing on work is like trying to read a book in the strip club.
+
+I'd like to hear other stories too. How do you manage distraction and tech overdose?
+
+## Footnotes
+
 [^1]: [The Impact of Social Media on Children, Adolescents, and Families](http://pediatrics.aappublications.org/content/127/4/800.short)
 [^2]: [Social Media Use and Perceived Social Isolation Among Young Adults in the U.S.](http://www.ajpmonline.org/article/S0749-3797(17)30016-8/fulltext)
 [^3]: [If Facebook Use Causes Envy, Depression Could Follow](https://munews.missouri.edu/news-releases/2015/0203-if-facebook-use-causes-envy-depression-could-follow/)
