@@ -4,7 +4,7 @@ title: Finding the Focus in the Age of Distraction
 image: /images/posts/2018-03-03-finding-the-focus-in-the-age-of-distraction/zombies.jpg
 ---
 
-One of the biggest problems in a hyperconnected world we live in is constant **distraction**. Usually caused by social media easily accessible on smartphones. It's highly addictive and brings false sense of connection. It usually leads to decreased productivity, has negative effects on **mental health** and could even lead to symptoms of depression.
+One of the biggest problems in a hyperconnected world we live in is a constant **distraction**. Usually caused by social media easily accessible on smartphones. It's highly addictive and brings false sense of connection. It usually leads to decreased productivity, has negative effects on **mental health** and could even lead to symptoms of depression.
 
 ![Zombies]({{site.baseurl}}/images/posts/2018-03-03-finding-the-focus-in-the-age-of-distraction/zombies.jpg)
 <!--more-->
@@ -68,7 +68,7 @@ All in all, the key of **interruption management** is to realize that world will
 
 Limit your interests. By this I mean interests in following various subject online. Most timelines are full of wedding photos, delicious meals, exotic travel destinations and so on, posted by our *friends*. Then there are news and blogs we follow. Tech news, cryptocurrencies, fashion, architecture ... depending on our interest of course. Maybe we should just care less. Who cares about new shiny iPhone with that silly notch, or if Bitcoin price went up or down, or who ate what and where. Stop that **fear of missing something**.
 
-Of course we should read articles, but it's important to find a measure, and select high quality content. I often read articles on E-Reader. It helps me to think twice if it really deserves to be read. It's not so rare that it becomes obsolete by the time I manage to get the chance to read it. And it's easier on my eyes. I use [Push to Kindle](https://addons.mozilla.org/en-US/firefox/addon/kindle-it/) for this.
+Of course we should read articles, but it's important to find a measure, and select high quality content. I often read articles on e-reader. It helps me to think twice if it really deserves to be read. It's not so rare that it becomes obsolete by the time I manage to get the chance to read it. And it's easier on my eyes. I use [Push to Kindle](https://addons.mozilla.org/en-US/firefox/addon/kindle-it/) for this.
 
 We are in control, not our device. We decide ~~when we want want to be interrupted~~. Actually, there is no interruption, we consume content whenever we want to. That's the key of being productive and stay focused. Make the phone dumber, less apps, less distraction. Try to identify what apps are really needed and keep their number minimal.
 You can go step further and buy [Light Phone](https://www.thelightphone.com/), [Nokia 3310](https://www.nokia.com/en_in/phones/nokia-3310-dual-sim) or [NoPhone](https://www.thenophone.com/) and enjoy unlimited battery life.
@@ -78,7 +78,7 @@ Tech companies are adding internet connections to just about everything you can 
 ![Privacy]({{site.baseurl}}/images/posts/2018-03-03-finding-the-focus-in-the-age-of-distraction/sleep.jpg)
 {% include copy.md name="Jean Jullien" title="http://www.jeanjullien.com/" url="http://www.jeanjullien.com/" %}
 
-Back to smartphones, I for example, disable all notifications except phone calls. It wasn't always that way. Few years ago I break phone display and got it replaced. The process tool two days. I was without my phone for the first time after several years of slavery. The feeling was fenomenal! A true revelation, everyone should try it. During the night, *do not disturb* mode is on, probably one of the most useful features.
+Back to smartphones, I for example, disable all notifications except phone calls. It wasn't always that way. Few years ago I break phone display and got it replaced. The process took two days. I was without my phone for the first time after several years of slavery. The feeling was fenomenal! A true revelation, everyone should try it. During the night, *do not disturb* mode is on, probably one of the most useful features.
 
 For people who have problems cutting or limiting time spent on distracting apps and websites, [Freedom](https://freedom.refersion.com/c/e32723) blocker can be useful. You can for example choose to schedule blocking of social media during working hours and boost your productivity that way. For higher levels of addition, there is also a locked mode.
 
