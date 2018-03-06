@@ -33,6 +33,7 @@ sass:
 exclude:
 - README.md
 - docker-compose.yml
+- vendor
 
 plugins:
     - jekyll-seo-tag
