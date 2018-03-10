@@ -1,6 +1,7 @@
 title: The Wall
 name: Saša Stamenković
 email: umpirsky@gmail.com
+url: http://wall.umpirsky.com
 
 highlighter: rouge
 markdown: kramdown
@@ -25,7 +26,7 @@ compress_html:
   startings: []
 
 jekyll-crosspost_to_medium:
-  text: '<p><i>Originally published on <a href=\"#{url}\" rel=\"canonical\">The Wall</a>.</i></p>'
+  text: '<p><i>Originally published on <a href=\"{{ url }}\" rel=\"canonical\">The Wall</a>.</i></p>'
 
 sass:
  style: compressed
